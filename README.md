@@ -14,3 +14,10 @@
  - 😄 설치 방법 및 책 소스 코드
     - 😄 설치 방법 및 책 소스 코드
     - 😄 설치 방법 및 책 소스 코드
+
+### 링크 연결하기
+ * 😄 설치 방법 및 책 소스 코드 [이동](https://github.com/LDJWJ/kagglebook)
+
+ * ### 이미지 넣기
+<img src='https://raw.githubusercontent.com/colabstart/img_src/f62a743f300c08a0029057cbda91658ee9543b05/apple.svg' width=30 height=30>
+<img src='' width=30 height=30>
