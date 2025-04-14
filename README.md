@@ -21,3 +21,17 @@
  * ### 이미지 넣기
 <img src='https://raw.githubusercontent.com/colabstart/img_src/f62a743f300c08a0029057cbda91658ee9543b05/apple.svg' width=30 height=30>
 <img src='' width=30 height=30>
+
+### 표 넣기
+| Left Align (default) | Center Align | Right Align |
+| ------------------- | ---------- | ---------- |
+| React.js             | Node.js      | MySQL       |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
+
+| Left Align (default) | Center Align | Right Align |
+| :------------------- | :----------: | ----------: |
+| React.js             | Node.js      | MySQL       |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
+
